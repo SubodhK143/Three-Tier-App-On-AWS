@@ -5,7 +5,7 @@
 **Author:** Subodh Kumar  
 **GitHub:** [github.com/SubodhK143](https://github.com/SubodhK143)  
 **LinkedIn:** [linkedin.com/in/subodh-kumar-aws-certified](https://www.linkedin.com/in/subodh-kumar-aws-certified/)  
-**Source Code:** [Three_Tire_App_On_AWS](https://github.com/Subodhk143/Three_Tire_App_On_AWS.git)
+**Source Code:** [Three_Tire_App_On_AWS](https://github.com/Subodhk143/Three_Tier_App_On_AWS.git)
 
 ---
 
