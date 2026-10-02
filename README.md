@@ -440,4 +440,4 @@ Delete resources in the following order to avoid dependency errors:
 
 ---
 
-*Documentation by Satyanarayan Sen — [GitHub](https://github.com/Satyanarayan4434) | [LinkedIn](https://www.linkedin.com/in/satyanarayan-sen/)*
+*Documentation by Satyanarayan Sen — [GitHub](https://github.com/SubodhK143) | [LinkedIn](https://www.linkedin.com/in/subodh-kumar-aws-certified/)*
